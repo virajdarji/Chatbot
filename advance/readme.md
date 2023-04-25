@@ -1,5 +1,7 @@
 This is the advance version of chatbot.
 
+The data for this can be downloaded from https://www.cs.cornell.edu/~cristian/memorability.html
+
 Reference:
 Chatbot Tutorial — PyTorch Tutorials 2.0.0+cu117 documentation. (n.d.). Chatbot Tutorial — PyTorch Tutorials 2.0.0+cu117 Documentation. https://pytorch.org/tutorials/beginner/chatbot_tutorial.html
 Dobilas, S. (2022, February 24). GRU Recurrent Neural Networks — A Smart Way to Predict Sequences in Python. Medium. https://towardsdatascience.com/gru-recurrent-neural-networks-a-smart-way-to-predict-sequences-in-python-80864e4fe9f6
